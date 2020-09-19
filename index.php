@@ -12,7 +12,7 @@
 	<meta http-equiv="pragma" content="no-cache">
 	<meta http-equiv="cache-control" content="no-cache, must-revalidate">
 	<link rel="shortcut icon" href="css_login/images/favicon.png">
-	<title>Schedule Management System | LPMP Provinsi Jawa Timur</title>
+	<title>Schedule Management System1 | LPMP Provinsi Jawa Timur</title>
 	<link rel="icon" type="image/png" href="css_login/images/abm.png"/>
 	<link rel="stylesheet" type="text/css" href="css_login/vendor/bootstrap/css/bootstrap.min.css">
 	<link rel="stylesheet" type="text/css" href="css_login/fonts/font-awesome-4.7.0/css/font-awesome.min.css">
